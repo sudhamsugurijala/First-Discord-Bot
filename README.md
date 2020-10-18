@@ -1,4 +1,7 @@
 # FirstDiscordBot
 
-In this same directory, create a '.env' file with contents:
-DISCORD_TOKEN=(your bot's token)
+in .env
+
+DISCORD_TOKEN={your bot's token}
+
+change {your bot's token} with the token
