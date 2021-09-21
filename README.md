@@ -1,4 +1,4 @@
-# FirstDiscordBot
+# First-Discord-Bot
 
 In .env file:\
 DISCORD_TOKEN={your bot's token}\
